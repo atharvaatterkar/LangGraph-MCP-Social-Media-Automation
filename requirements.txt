@@ -1,0 +1,6 @@
+langgraph
+mcp
+groq
+tweepy
+requests
+python-dotenv
